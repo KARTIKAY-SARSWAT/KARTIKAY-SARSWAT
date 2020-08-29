@@ -8,6 +8,6 @@
 - ⚡ Fun fact:I love listening music and playing Cricket & CSGO(csgo with noob friends). 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KARTIKAY-SARSWAT&&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAY-SARSWAT&&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=notes&&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=ToDo-List&&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=KARTIKAY-SARSWAT&&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAY-SARSWAT&&show_icons=true&theme= synthwave">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=notes&&show_icons=true&theme= dracula"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=ToDo-List&&show_icons=true&theme=gruvbox">
 <p style="text-align:center">Show Your ❤ for ⭐ some repositories</p>
