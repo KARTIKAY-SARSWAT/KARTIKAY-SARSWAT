@@ -11,5 +11,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KARTIKAY-SARSWAT&&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAY-SARSWAT&&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=notes&&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=ToDo-List&&show_icons=true&theme=tokyonight">
 <div align="center">
-<p>Show Your ❤ for ⭐ some repositories</p>
+<p>Show Your ❤ to ⭐ some repositories</p>
 </div>
