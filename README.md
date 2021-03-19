@@ -1,7 +1,7 @@
 ### Hi, I'm Kartikay 👋
 
-- 🔭 I’m currently working on Summer Design Project.
-- 🌱 I’m currently learning AR and VR.
+- 🔭 I’m currently working on WEB Project.
+- 🌱 I’m currently learning about Backend-development.
 - 👯 I’m looking to collaborate on web-based projects.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [LinkedIn - @iamkartikay](https://www.linkedin.com/in/iamkartikay/) 
