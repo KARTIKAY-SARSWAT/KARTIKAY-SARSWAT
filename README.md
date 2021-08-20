@@ -8,7 +8,7 @@
 - ⚡ Fun fact:I love listening music and playing Cricket. 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=&&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAY-SARSWAT&&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=KARTIKAY-SARSWAT&&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAY-SARSWAT&&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=Amazon-clone&&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KARTIKAY-SARSWAT&repo=notes&&show_icons=true&theme=tokyonight">
 <div align="center">
 <p>Show Your ❤ to ⭐ some repositories</p>
