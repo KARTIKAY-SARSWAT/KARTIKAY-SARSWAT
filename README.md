@@ -1,9 +1,8 @@
 ### Hi, I'm Kartikay 👋
 
-- 🔭 I’m currently working in Askim Tech as an Intern.
-- 🌱 I’m currently learning DSA.
-- 👯 I’m looking for Job Placement.
-- 💬 Ask me about Web Development
+- 🔭 SDE Intern at Cognam Technologies Pvt. Ltd.
+- 🌱 I’m currently learning blockchain.
+- 💬 Ask me about Web Development.
 - 📫 How to reach me: [LinkedIn - @iamkartikay](https://www.linkedin.com/in/iamkartikay/) 
 - ⚡ Fun fact:I love listening music and playing Cricket. 
 
