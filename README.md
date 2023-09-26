@@ -1,8 +1,8 @@
 ### Hi, I'm Kartikay 👋
 
-- 🔭 SDE Intern at Cognam Technologies Pvt. Ltd.
+- 🔭 Blockchain Developer at Cognam Technologies Pvt. Ltd.
 - 🌱 I’m currently learning blockchain.
-- 💬 Ask me about Web Development.
+- 💬 Ask me about Web Development and Blockchain.
 - 📫 How to reach me: [LinkedIn - @iamkartikay](https://www.linkedin.com/in/iamkartikay/) 
 - ⚡ Fun fact:I love listening music and playing Cricket. 
 
